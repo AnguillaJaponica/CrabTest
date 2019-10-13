@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CrabTest</string>
+    <string name="any_string_value">anyStringValue</string>
+    <string name="app_movie_page">アプリ説明動画のページをみる</string>
+    <string name="vote_button">投票する</string>
+    <string name="switch_for_main">サインアップ / CRABについて</string>
+    <string name="route_check_button">ルートを見る</string>
+    <string name="catch_phrase">CRAB For Better World</string>
 </resources>

@@ -15,5 +15,10 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AppmovieActivity::class.java)
             startActivity(intent)
         }
+
+        button5.setOnClickListener {
+            val intent = Intent(this, CrabGetActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

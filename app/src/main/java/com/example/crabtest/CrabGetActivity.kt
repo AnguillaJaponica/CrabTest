@@ -34,7 +34,7 @@ class CrabGetActivity : AppCompatActivity() {
         // メインスレッドでAlertDialogを表示
         runOnUiThread {
             AlertDialog.Builder(this)
-                .setTitle("From AWS APIGateway")
+                .setTitle("SDK From AWS APIGateway")
                 .setMessage(key1 +"："+ key2 +"："+ key3)
                 .setPositiveButton(android.R.string.ok, null)
                 .create()
